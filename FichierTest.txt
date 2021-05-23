@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Modif envoyé par erreur.
-=======
-Test2
->>>>>>> parent of a128623 (modif du FichierTest.txt)
+Modif envoyé par erreur...
