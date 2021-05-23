@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Texte envoyé par erreur
-=======
-Modif envoyé par erreur...
->>>>>>> parent of 11553ce (Envoi du fichier v1.0)
